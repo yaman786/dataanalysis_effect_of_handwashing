@@ -1,5 +1,5 @@
 ## 1. Meet Dr. Ignaz Semmelweis
-<p><img style="float: left;margin:5px 20px 5px 1px" src="dataset/ignaz_semmelweis_1860.jpeg"></p>
+<p><img style="float: left;margin:5px 20px 5px 1px" src="datasets/ignaz_semmelweis_1860.jpeg"></p>
 <!--
 <img style="float: left;margin:5px 20px 5px 1px" src="datasets/ignaz_semmelweis_1860.jpeg">
 -->
