@@ -19,19 +19,6 @@ yearly
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -155,19 +142,6 @@ clinic_1
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -259,7 +233,7 @@ clinic_2.plot(x="year", y="proportion_deaths", label="Clinic 2", ax=ax, ylabel="
 
 
     
-![png](output_5_1.png)
+![png](output1.png)
     
 
 
@@ -282,19 +256,6 @@ monthly
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -401,7 +362,7 @@ ax = monthly.plot(x="date",y="proportion_deaths",ylabel="Proportion deaths")
 
 
     
-![png](output_9_0.png)
+![png](output2.png)
     
 
 
@@ -434,7 +395,7 @@ after_washing.plot(x="date", y="proportion_deaths",
 
 
     
-![png](output_11_1.png)
+![png](output3.png)
     
 
 
